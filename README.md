@@ -22,7 +22,7 @@ RescueRoute AI explores a simple idea:
 
 **What if a routing system could dynamically update its road network when a hazard is reported and calculate an alternative path?**
 
-## Our Solution
+## Solution
 
 RescueRoute AI models a city's driving network as a **directed, weighted graph**.
 
